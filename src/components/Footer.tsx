@@ -13,7 +13,7 @@ function Footer() {
           <PhoneCall size={20} className="mr-2" />
           <p>(34) 3210-1603</p>
         </div>
-        <p>&copy; 2024 Like Pizza. Todos os direitos reservados.</p>
+        <p>&copy; 2024 Pizza On. Todos os direitos reservados.</p>
       </div>
     </footer>
   );

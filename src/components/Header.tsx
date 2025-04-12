@@ -7,7 +7,7 @@ function Header() {
       <div className="container mx-auto flex items-center justify-between px-4 md:px-0">
         <div className="flex items-center">
           <Pizza size={32} color="#e53e3e" className="mr-2" />
-          <span className="text-2xl font-bold text-red-600">Like Pizza</span>
+          <span className="text-2xl font-bold text-red-600">Pizza On</span>
         </div>
         <nav>
           <ul className="flex space-x-6">
