@@ -7,11 +7,11 @@ function Footer() {
       <div className="container mx-auto text-center">
         <div className="flex items-center justify-center mb-4">
           <MapPin size={20} className="mr-2" />
-          <p>R. dos Antúrios, 247 - Uberlândia, MG</p>
+          <p>Rua da pizza, 50 Jardim das flores Sp</p>
         </div>
         <div className="flex items-center justify-center mb-4">
           <PhoneCall size={20} className="mr-2" />
-          <p>(34) 3210-1603</p>
+          <p>(11) 4002-8922</p>
         </div>
         <p>&copy; 2024 Pizza On. Todos os direitos reservados.</p>
       </div>
